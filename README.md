@@ -1,16 +1,16 @@
-## Hi there 👋
+**Hola me llamo Maria De Benito** 😊
+Una estudiante coder  
+con muchas ganas de seguir aprendiendo
+España 🗺️
 
-<!--
-**mariaromerodb-bit/mariaromerodb-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Actualmente aprendiendo backend y frontend
+- 📚📺 Amante de la lectura, las series y la animacion
+- 👩‍🏫 algo interesante: quiero aprender ingles y coreano
 
-Here are some ideas to get you started:
+##Tecnologias:
+-HTML/CSS/JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Contacto:
+linkedin
+instagram
+
