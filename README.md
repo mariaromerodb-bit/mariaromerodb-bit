@@ -9,7 +9,9 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-</p>
+
 
 <h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" ancho="1" alto="1"/> </a> <a href="https://www.w3.org/html/" objetivo="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" ancho="1" alto="1"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" objetivo="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" ancho="1" alto="1"/> </a> </p>
+<p align="center"><img src="https://logosdown.com/wp-content/uploads/2023/08/html5-logo-1088x1536.png"></p>
+<p align="center"><img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png"></p>
+<p aligN="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></p>
