@@ -6,12 +6,22 @@
 - - 👩‍🏫 Algo interesante: **quiero aprender ingles y coreano**
 
 - - Sobre mi: **📚📺 Amante de la lectura, las series y la animación**
+ 
+# 💫 About Me:
+Hola soy Maria y estoy estudiando para ser coder
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mariaromerodb-bit&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mariaromerodb-bit&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaromerodb-bit&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="center"><img src="https://logosdown.com/wp-content/uploads/2023/08/html5-logo-1088x1536.png"></p>
-<p align="center"><img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png"></p>
-<p aligN="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mariaromerodb-bit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mariaromerodb-bit&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
